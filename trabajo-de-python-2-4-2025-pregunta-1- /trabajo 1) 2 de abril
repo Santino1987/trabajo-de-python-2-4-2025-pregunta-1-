@@ -1,0 +1,13 @@
+>>> # Definición de los dos números predefinidos
+>>> numero_uno = 25
+>>> numero_dos = 12
+>>>
+>>> # Suma de los dos números y almacenamiento en una tercera variable
+>>> resultado_suma = numero_uno + numero_dos
+>>>
+>>> # Mostrar el resultado de la suma
+>>> print("El primer número es:", numero_uno)
+El primer número es: 25
+>>> print("El segundo número es:", numero_dos)
+El segundo número es: 12
+>>> print("La suma de los dos números es:", resultado_suma)
